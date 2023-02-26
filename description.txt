@@ -1,1 +1,30 @@
-Revive Reaver Shark is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Revive Reaver Shark is a simple mod.
+
+Reaver Shark was murdered by ReLogic.
+So we brought it back to life - better than ever.
+
+The Reaver Shark will now scale progressively depending on the bosses defeated in the world.
+The stats are adjusted to the current world, and will always be powered around what your progression is.
+
+This mod doesn't let you cheat, but it does give the Reaver the respect it rightly deserves.
+
+Progressions is as follows:
+59% <- Base
+59% <- Eye of Cthulhu
+70% <- Any Corruption Boss
+80% <- Queen Bee
+90% <- Skeletron
+100% <- Deerclops
+110% <- Wall of Flesh
+150% <- Queen Slime
+170% <- Any Mech Boss
+200% <- All Mech Bosses
+205% <- Plantera
+210% <- Golem
+220% <- Cultist
+225% <- Any Tower
+230% <- All Towers
+250% <- Moon Lord
+300% <- Empress of Light
+
+Bug reports are appreciated!
