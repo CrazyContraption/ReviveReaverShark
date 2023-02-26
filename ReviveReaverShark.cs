@@ -119,7 +119,7 @@ namespace ReviveReaverShark
             base.OnEnterWorld(player);
             new Task(delegate
             {
-                Thread.Sleep(1000);
+                Thread.Sleep(1500);
                 ReviveReaverShark.RecalculatePowers(Main.player[Main.myPlayer]);
             }).Start();
         }
