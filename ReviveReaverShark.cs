@@ -73,7 +73,7 @@ namespace ReviveReaverShark
             else if (NPC.downedMechBoss1 && NPC.downedMechBoss2 && NPC.downedMechBoss3) // All mechs
                 return 200;
             else if (NPC.downedMechBoss1 || NPC.downedMechBoss2 || NPC.downedMechBoss3) // Any mech
-                return 170;
+                return 180;
             else if (NPC.downedQueenSlime)
                 return 150;
             else if (Main.hardMode) // WoF
