@@ -1,18 +1,27 @@
-Revive Reaver Shark is a simple mod. - Last Updated 2/27/2023
+Revive Reaver Shark is a simple mod. - Last Updated 3/03/2023
 
 Reaver Shark was murdered by ReLogic.
 So we brought it back to life - better than ever.
 
-The Reaver Shark will now scale progressively depending on the bosses defeated in the world.
+The Reaver Shark will now scale progressively with you depending on the bosses defeated in the world.
 The stats are immediately adjusted to the current world, and will always be powered around what your progression is.
 
 This mod doesn't let you cheat, but it does give the Reaver the respect it rightly deserves.
 
 [img]http://i.imgur.com/oEtvFdv.png[/img][url=https://steamcommunity.com/id/CrazyContraption/myworkshopfiles/?appid=1281930][img]http://i.imgur.com/aJmBEpZ.png[/img][/url][img]http://i.imgur.com/Mftyk3C.png[/img][url=https://steamcommunity.com/tradeoffer/new/?partner=118835142&token=NMUc1w_a][img]http://i.imgur.com/esb4eke.png[/img][/url][img]http://i.imgur.com/rmnT7kv.png[/img][url=https://www.buymeacoffee.com/CrazyCoder][img]http://i.imgur.com/uPY3dEJ.png[/img][/url]
 
+
+"But this mod makes the game unbalanced, now I don't have to craft xyz!"
+The time you save not needing to craft a new pick is offset by its relatively slow mining speed in hardmode, and no axe stats.
+While this mod makes Reaver viable late-game, it is by no means your best option at any given time post-hardmode.
+
+This mod is excellent for drop-in players that need to catch up to progression quickly, or players that hate ore upgrade grinds.
+
+
 Progressions are as follows:
 59% <- Base
-65% <- Eye of Cthulhu
+60% <- King Slime
+64% <- Eye of Cthulhu
 70% <- Any Corruption Boss
 80% <- Queen Bee
 90% <- Skeletron
@@ -25,12 +34,18 @@ Progressions are as follows:
 210% <- Golem
 220% <- Cultist
 225% <- Any Tower
-230% <- All Towers
-250% <- Moon Lord
-300% <- Empress of Light
+235% <- All Towers
+255% <- Empress of Light
+275% <- Moon Lord or Duke Fishron
+285% <- Moon Lord and Duke Fishron
+300% <- Moon Lord, Empress, and Fishron
+
+
+You can also set the mod to ONLY un-nerf Reaver Shark back to 100% pick power in the included config.
+Swapping between the two modes in-game is supported, settings of the world host are used by default.
+
 
 Bug reports are appreciated!
-
 
 Multiplayer compatible.
 Mod Compatible.
